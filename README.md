@@ -16,7 +16,9 @@
 
 **Author:** Smackcoders
 
-**Author/Plugin URI:** https://www.smackcoders.com/wp-ultimate-csv-importer-pro.html
+**Author Page URI:** https://www.smackcoders.com/wp-ultimate-csv-importer-pro.html
+
+**Plugin URI:**https://wordpress.org/plugins/wp-ultimate-csv-importer/
 
 **License:** GPLv2 or later
 
