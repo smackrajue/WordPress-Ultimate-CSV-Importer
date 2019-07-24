@@ -37,7 +37,7 @@ There are 3 simple steps to follow,
 
 There are more features bundled to make even complicated post data import simplified. 
 
-**1.Upload your CSV**
+**1. Upload your CSV**
 
 * Upload your CSV file from different sources like desktop, FTP/SFTP, remote URLs or a location from your host server. 
 * CSV, Zip, txt and XMl data (pro) file types supported. 
@@ -48,7 +48,7 @@ There are more features bundled to make even complicated post data import simpli
 * It can be a complete post content replacement or partial update like selected set of fields for each post in CSV.
 * Click continue button.
 
-**2.Relate or map your CSV fields to WP fields**
+**2. Relate or map your CSV fields to WP fields**
 
 In mapping section, CSV Importer plugin allows you to relate the uploaded data set against WordPress fields. There are two methods available to relate your data set.
 
@@ -105,7 +105,7 @@ Reviews – WP Customer Reviews
 * Manager >>File manager, log manager
 * Support >> Documentation
 
-####Premium Features####
+#### Premium Features ####
 * CSV and XML import
 * Reusable Mapping Templates with Template manager
 * Smart Schedule/Recurring Import to run import periodically without any manual interaction.
@@ -130,21 +130,29 @@ Reviews – WP Customer Reviews
 #### Frequently Asked Questions ####
 
 * What is a csv file?
+
 A csv or comma separated value file is a simple text based file format to store tabular data. In general, a character like a comma used as a separator between commas separated values as tables. 
 
 * How to open or edit csv file?
+
 A csv file could be edited in any program like notepad or notepad+. However, a spreadsheet editor like MS Office, Open Office Calc is more useful to directly edit as tabled structure.
 
 * What are the types of CSV files?
+
 Most common type is csv or comma separated value file. The other one is delimited file where a character like a tab or a semicolon used instead of comma as a delimiter.
 
 * What is csv file format?
+
 There are different file formats available based on encode like ANSI, UTF-8, UTF-8 without BOM, USC-2 BE BOM and USC-2 LE BOM. For WordPress, the default format will be UTF-8 and for non-Latin character data, UTF-8 without BOM used.
 
 * How to validate a CSV?
+
 You can validate a csv file using [CSV Lint](https://csvlint.io/). Your CSV may miss escaping characters and misplaced/skipped character, which may cause the import to cease. Validate any csv file for issues or warning and fix them before importing it to WordPress.
 
 * How to import content to WordPress?
+
 Import to WordPress done in different methods based on content source type, platform, and file types. The most common types of imports are XML, CSV and DB files. 
+
 1. Xml method needs advanced knowledge to edit/update them in case of any changes required on source data. Otherwise, users are limited to do import without any changes to source file. Hence, editing done post by post in WordPress only possible after import.
+
 2. CSV methods allow any users with basic excel or any spreadsheet knowledge can audit, change, edit or update the data visually in bulk before importing. So painful manual works avoided and time saved. Also, CSV file is the most preferred method for any offline programs. 
