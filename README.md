@@ -4,6 +4,12 @@
 
 **Donate link:** http://www.smackcoders.com/donate.html
 
+**Author Page URI:** https://www.smackcoders.com/wp-ultimate-csv-importer-pro.html
+
+**Plugin URI:** https://wordpress.org/plugins/wp-ultimate-csv-importer/
+
+**Plugin Support URI:** https://wordpress.org/support/plugin/wp-ultimate-csv-importer/
+
 **Tags:** csv, csv import, csv importer, import, import csv, import seo, import woocommerce, acf, excel, spreadsheet
 
 **Requires at least:** 4.5
@@ -15,10 +21,6 @@
 **Version:** 5.2.2
 
 **Author:** Smackcoders
-
-**Author Page URI:** https://www.smackcoders.com/wp-ultimate-csv-importer-pro.html
-
-**Plugin URI:** https://wordpress.org/plugins/wp-ultimate-csv-importer/
 
 **License:** GPLv2 or later
 
